@@ -1,0 +1,28 @@
+After more than two years in the making, Apple CEO Steve Jobs Tuesday announced the company’s intention to enter the mobile handset market, unveiling the new Apple iPhone. The iPhone brings together several features of the iPod, digital camera, smart phones and even portable computing to one device, with a widescreen display and an innovative input method.
+
+“Every once in a while a revolutionary product comes along that changes everything,” Jobs said.
+
+Featuring a new input technology called “Multi-Touch” the iPhone features only a single physical button, called “home.” You control the phone by sliding a finger across its touch-sensitive 3.5-inch display, which has a resolution of 320-by-480 pixels at 160 pixels-per-inch display.
+
+The iPhone, which runs Mac OS X, has full iTunes integration and can seamlessly sync data with a Mac, PC, or Internet service, including music and videos from iTunes, contacts, calendars, photos, notes, bookmarks and e-mail accounts.
+
+The 0.46-inch (11.6-millimeter) thick device weighs 4.8 ounces (135 grams) and sports a 2-megapixel camera, volume control, ring-silent switch, 3.5-millimeter headset/audio jack, SIM tray, “sleep-wake” switch, speaker, microphone, and a 30-pin iPod dock connector. The quad-band GSM (850MHz, 900MHz, 1800MHz, and 1900MHz) + EDGE phone also has 802.11b/g Wi-Fi and Bluetooth 2.0 capabilities. Jobs noted 3G capabilities will come in the future.
+
+Three smart sensors also help control the iPhone’s behavior. A proximity sensor shuts down the display and touchscreen when the phone is held to the ear. An ambient light sensor automatically adjusts screen brightness to save power. Meanwhile, an accelerometer lets the phone know whether to display in portrait or landscape mode.
+
+
+Despite the phone’s revolutionary features, Jobs claimed that the phone’s strongest feature was its redefinition of how calls are made.
+
+“We want to reinvent the phone,” Jobs said. “What’s the killer app? The killer app is making calls. It’s amazing how hard it is to make calls on phones. We want you to use contacts like never before.”
+
+A Visual Voice-mail feature allows users to skip directly to voice mails they want to hear. An easy-to-use conference call feature lets users connect two calls with one touch of the screen. Text messaging on the iPhone is similar to iChat, with user dialogue encased in bubbles and with familiar iChat sounds, and a touch keyboard appears below for entering text.
+
+The iPhone uses its Wi-Fi and EDGE capabilities to automatically connect to the Internet. Internet connectivity includes HTML-capable e-mail that works with any IMAP or POP3 e-mail service. Jobs also announced that Yahoo will offer free push e-mail—similar to the e-mail system on a Blackberry—to all iPhone customers.
+
+Apple also included its Safari web browser, and the phone can use its Internet capabilities to view standard Web pages, rather than WAP versions of pages. Integrated Google Maps functionality lets users look up locations, search for local businesses, and view satellite imagery. The iPhone also supports Dashboard widgets, and Apple announced it will include weather and stock widgets.
+
+The iPhone’s photo management features are equally interesting. Its software enables users to use a “pinching” motion to zoom in and out of pictures, and to orient pictures in standard or landscape mode. When playing music, the iPhone can automatically adjust levels up or down as calls come in.
+
+The iPhone will come in two versions: a 4GB, $499 model and an 8GB, $599 model. Both will require a two-year contract with Cingular, the exclusive U.S. carrier. Both models will be available beginning in June from Apple Stores and from Cingular.
+
+Jobs said Apple plans to bring the iPhone to Europe in the fourth calendar quarter of 2007, and to Asia in 2008. Jobs also mentioned two accessories for the iPhone: stereo headphones with integrated microphone, and a Bluetooth headset that pairs automatically with the iPhone and goes to sleep to preserve battery life.
